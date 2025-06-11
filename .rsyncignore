@@ -3,3 +3,7 @@
 /vpn_peer/
 /.env
 /.editorconfig
+.git
+.gitattributes
+.gitignore
+.rsyncignore
